@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Nicolas-Maurer, I am 22 years old French student wishing to move to USA !
-- 👀 I’m interested in a lot of things! At the moment I'm trying implement AlphaZero to play the game Onitama ! 😁
-- 🌱 I’m currently in 2nd year of a master in mathematics applied and statistics. I'd love to dive deeper Deep Learning / Reinforcement Learning
-- 💞️ I’m looking to collaborate on Machine Learning / Deep Learning / Reinforcement Learning projects
-- 📫 Fell free to contact me by email : nicolas.m.63@hotmail.fr
+- 👋 Hi, I’m @Nicolas-Maurer, a 25-year-old Data Scientist specializing in predictive modeling for supply chain optimization.
+- 👀 I’m interested in a wide range of topics! I’ve implemented AlphaZero to play the game _Onitama_! 😁
+- 🌱 Currently, I’m a Data Scientist at Michelin, with a master’s degree in Applied Mathematics and Statistics. I’d love to dive deeper into Deep Learning and Reinforcement Learning.
+- 💞️ I’m open to collaborating on Machine Learning, Deep Learning, and Reinforcement Learning projects.
+- 📫 Feel free to reach out via email: nicolas.m.63@hotmail.fr
